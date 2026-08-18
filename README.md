@@ -42,9 +42,8 @@ A curated collection of my professional certifications, course completions, and 
 
 | Platform | Profile |
 |----------|---------|
-| **Salesforce Trailblazer** | [🔗 View Trailblazer Profile](https://www.salesforce.com/trailblazer/profile) |
+| **Salesforce Trailblazer** | [🔗 View Trailblazer Profile]([https://www.salesforce.com/trailblazer/profile)]https://[(www.salesforce.com/trailblazer/uoht9xfdkmxr3t9txi)]|
 
-> 💡 *Update the link above with your personal Trailblazer URL (e.g., `salesforce.com/trailblazer/yourusername`)*
 
 ---
 
