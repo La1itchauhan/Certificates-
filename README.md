@@ -26,6 +26,16 @@ A curated collection of my professional certifications, course completions, and 
 
 ---
 
+## 🛡️ Cybersecurity
+
+| Certification | Issuer | Certificate | Verification / Details |
+|---------------|--------|-------------|------------------------|
+| **Cyber Hygiene Practitioner** (Oct 2026) | ISEA / Ministry of Electronics & IT (MeitY) | [📄 View Certificate](ISEA_Cyber_Hygiene_Practitioner.pdf) | Cert No: `CDACHYD/ISEA/CHP/136112` |
+
+> **Description:** Certified in "Cyber Hygiene Practices" as part of the "STAY SAFE ONLINE (SSO) CAMPAIGN" under India's G20 presidency. The campaign is led by the Ministry of Electronics & Information Technology (MeitY), Government of India, and implemented by C-DAC, Hyderabad as part of ISEA Project Phase-II.
+
+---
+
 ## 🤖 AI & Machine Learning
 
 ### Foundations in Generative AI — IBM SkillsBuild
