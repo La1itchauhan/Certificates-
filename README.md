@@ -52,11 +52,11 @@ A curated collection of my professional certifications, course completions, and 
 
 | Platform | Profile |
 |----------|---------|
-| **Salesforce Trailblazer** | [🔗 View Trailblazer Profile]([https://www.salesforce.com/trailblazer/profile)]https://[(www.salesforce.com/trailblazer/uoht9xfdkmxr3t9txi)]|
+| **Salesforce Trailblazer** | [🔗 View Trailblazer Profile](https://www.salesforce.com/trailblazer/uoht9xfdkmxr3t9txi) |
 
 
 ---
 
 <p align="center">
-  <i>Last updated: August 2026</i>
+  <i>Last updated: October 2026</i>
 </p>
